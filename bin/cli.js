@@ -27,6 +27,7 @@ const transformers = [
   'v5-props-changed-migration',
   'v5-removed-component-migration',
   'v5-remove-style-import',
+  'v5-use-static-method-hooks',
 ];
 
 const dependencyProperties = [
